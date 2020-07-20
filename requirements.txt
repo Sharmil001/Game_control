@@ -1,0 +1,7 @@
+For runnind the project you'll require the following setup:
+1. Python 3.6 environment 
+2. Install the openCV library 
+3. Install the imutils library.
+4. Install ctypes library
+5. Install pywin32
+Doing this shall get your setup ready!
